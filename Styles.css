@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: Unbounded;
-    src: url(/font/Unbounded-SemiBold.ttf) format('truetype');
+    src: url(font/Unbounded-SemiBold.ttf) format('truetype');
 }
 
 .tittle_color {
