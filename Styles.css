@@ -125,7 +125,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/assets/Sloggan.jpg');
+    background-image: url('assets/Sloggan.jpg');
     background-size: 1920px 1080px;
     background-size: cover;
     background-position: center;
@@ -138,7 +138,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/assets/About.jpg');
+    background-image: url('assets/About.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
